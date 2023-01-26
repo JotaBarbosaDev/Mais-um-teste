@@ -16,3 +16,4 @@ sdv
 sd
 v
 sd
+Testado no PC Fixo
